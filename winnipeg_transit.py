@@ -1,7 +1,7 @@
 # Copyright 2018 Ryan M. Spies
 # This code is licensed under the MIT license (see LICENSE for details)
 #
-# winnipeg_transit.py 
+# winnipeg_transit.py version 1.0
 #
 # This file contains the main winnipeg_transit class which is used to
 # initialize an API handler with the user's API key. Upon initialization
