@@ -24,7 +24,7 @@ times = transit.get_times(stop)
 
 ## Contributing
 
-Please read code-of-conduct.md for details on our code of conduct.
+Please read CONTRIBUTING.md for details on our code of conduct.
 
 ## Authors
 * **Ryan M. Spies** - *Initial Work* - [spiesr](https://github.com/spiesr)
