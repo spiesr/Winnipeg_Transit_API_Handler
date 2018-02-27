@@ -22,9 +22,9 @@ stops = transit.get_stops(lat,lon,dist)
 times = transit.get_times(stop)
 ```
 
-## Contributing
+## Code of Conduct
 
-Please read CONTRIBUTING.md for details on our code of conduct.
+Please read CODE_OF_CONDUCT.md for details on our code of conduct.
 
 ## Authors
 * **Ryan M. Spies** - *Initial Work* - [spiesr](https://github.com/spiesr)
